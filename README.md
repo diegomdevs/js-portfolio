@@ -1,2 +1,1 @@
 # js-portfolio
-Learning Netlify
